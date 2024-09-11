@@ -14,21 +14,5 @@ Welcome to my GitHub repository for projects developed during my internship at *
      - Background color overlay specifically targets the T-shirt without affecting the entire preview area.
      - Interactive user interface with a focus on simplicity and functionality.
 
-2. **[Project Name 2]**
-   - **Description**: Brief description of what the project is about.
-   - **Technologies**: List of technologies or tools used.
-   - **Key Features**: Highlight main features or functionality.
-
-3. **[Project Name 3]**
-   - **Description**: Brief description of what the project is about.
-   - **Technologies**: List of technologies or tools used.
-   - **Key Features**: Highlight main features or functionality.
-
-## Skills Gained
-- Full-stack development (Backend & Frontend)
-- API Integration & Database Management
-- Debugging and problem-solving in real-world scenarios
-- Collaboration with team members using version control (Git)
-
 ## About CodexIntern
 **CodexIntern** is a leading software company focused on innovative tech solutions. My experience here helped me gain hands-on experience with industry-standard tools and practices, preparing me for future professional endeavors.
