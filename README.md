@@ -4,10 +4,15 @@ Welcome to my GitHub repository for projects developed during my internship at *
 
 ## Projects Overview
 
-1. **[Project Name 1]**
-   - **Description**: Brief description of what the project is about.
-   - **Technologies**: List of technologies or tools used (e.g., Java, Spring Boot, MySQL, HTML, CSS, JavaScript).
-   - **Key Features**: Highlight main features or functionality.
+
+1. **T-shirt Customizer**
+   - **Description**: A web-based T-shirt customization tool that allows users to preview customized T-shirts. Users can upload their own designs or logos, change the T-shirt's background color, and apply the design to the chest area of the T-shirt.
+   - **Technologies**: HTML, CSS, JavaScript
+   - **Key Features**:
+     - Real-time T-shirt preview with customizable color options.
+     - Ability to upload and apply custom designs to the T-shirt's chest area.
+     - Background color overlay specifically targets the T-shirt without affecting the entire preview area.
+     - Interactive user interface with a focus on simplicity and functionality.
 
 2. **[Project Name 2]**
    - **Description**: Brief description of what the project is about.
