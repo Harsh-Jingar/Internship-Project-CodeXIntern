@@ -11,7 +11,7 @@ Welcome to my GitHub repository for projects developed during my internship at *
    - **Key Features**:
      - Real-time T-shirt preview with customizable color options.
      - Ability to upload and apply custom designs to the T-shirt's chest area.
-     - Background color overlay specifically targets the T-shirt without affecting the entire preview area.
+     - Users can download the final customized T-shirt image.
      - Interactive user interface with a focus on simplicity and functionality.
 
 ## About CodexIntern
