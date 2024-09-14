@@ -13,6 +13,17 @@ Welcome to my GitHub repository for projects developed during my internship at *
      - Ability to upload and apply custom designs to the T-shirt's chest area.
      - Users can download the final customized T-shirt image.
      - Interactive user interface with a focus on simplicity and functionality.
-
+       
+2. **Article Summarizer**
+   - **Description**: A web-based application that provides summaries of articles by extracting content from a given URL. Users can input the URL of any article, and the tool will generate and display a concise summary.
+   - **Technologies**: HTML, CSS, JavaScript, RapidAPI
+   - **Key Features**:
+     - Input field for entering the article URL.
+     - Real-time summary generation with loading indication.
+     - Clear display of the article summary.
+     - Integration with RapidAPI for article summarization.
+     - Error handling for failed summary fetch attempts.
+     - Simple and user-friendly interface with a focus on usability.
+    
 ## About CodexIntern
 **CodexIntern** is a leading software company focused on innovative tech solutions. My experience here helped me gain hands-on experience with industry-standard tools and practices, preparing me for future professional endeavors.
