@@ -14,6 +14,7 @@ Welcome to my GitHub repository for projects developed during my internship at *
      - Users can download the final customized T-shirt image.
      - Interactive user interface with a focus on simplicity and functionality.
 
+       
 2. **Article Summarizer**
    - **Description**: A web-based application that provides summaries of articles by extracting content from a given URL. Users can input the URL of any article, and the tool will generate and display a concise summary.
    - **Technologies**: HTML, CSS, JavaScript, RapidAPI
@@ -36,5 +37,6 @@ Welcome to my GitHub repository for projects developed during my internship at *
       - **Local Storage Integration**: All tasks are saved in the browser's local storage, so the to-do list persists even after the page is refreshed or the browser is closed and reopened.
       - **Responsive and Interactive Design**: The user interface is simple and responsive, ensuring a smooth experience across different devices.
 
+    
 ## About CodexIntern
 **CodexIntern** is a leading software company focused on innovative tech solutions. My experience here helped me gain hands-on experience with industry-standard tools and practices, preparing me for future professional endeavors.
