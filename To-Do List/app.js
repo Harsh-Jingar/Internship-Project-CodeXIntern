@@ -4,7 +4,6 @@ const todoList = document.getElementById('todo-list');
 
 let todos = JSON.parse(localStorage.getItem('todos')) || [];
 
-
 function renderTodos() {
     todoList.innerHTML = '';
 
